@@ -1,4 +1,2 @@
 ﻿streamlit
 scikit-learn
-datetime
-subprocess
